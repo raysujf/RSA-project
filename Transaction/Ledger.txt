@@ -1,0 +1,4 @@
+| Status | Current Number of Transaction Stored: 0
+------------ Transactions Stored in Ledger Below ----------
+| Ledger Balence Statistics: None
+------------ Transactions Stored in Ledger Above ----------
